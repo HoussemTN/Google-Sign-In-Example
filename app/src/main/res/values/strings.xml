@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google-Sign-In</string>
+    <!-- Signin -->
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="connected_message">Connected ! </string>
+    <string name="disconnected_message">Disconnected ! </string>
+</resources>
